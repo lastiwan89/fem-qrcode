@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github code repo](https://github.com/lastiwan89/fem-qrcode)
+- Live Site URL: [Netlify](https://friendly-scone-0a8c0d.netlify.app/)
 
 ## My process
 
